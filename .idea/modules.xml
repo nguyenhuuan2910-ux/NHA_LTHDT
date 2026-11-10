@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTT7/BTT7.iml" filepath="$PROJECT_DIR$/BTT7/BTT7.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloWord.iml" filepath="$PROJECT_DIR$/helloWord.iml" />
     </modules>
   </component>
