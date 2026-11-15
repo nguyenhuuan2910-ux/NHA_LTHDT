@@ -1,6 +1,6 @@
 package BTT7;
 
-public class Sach {
+class Sach {
     // Thuộc tính đóng gói (private)
     private String maSach;
     private String tieuDe;
